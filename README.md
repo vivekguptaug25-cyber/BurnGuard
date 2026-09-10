@@ -7,10 +7,11 @@ A comprehensive AI/ML platform for real-time anomaly detection, risk assessment,
 ## 1. Project Information
 
 - **Project Title:** BurnGuard – AI-Driven Semiconductor Component Burn-in & Screening Anomaly Detection System
-- **PS ID:** SIH2026-DEMO-001 *(Update with your official PS ID)*
-- **PS Title:** Semiconductor Component Burn-in Anomaly Detection & Reliability Screening *(Update with your official PS Title)*
+- **Team Name:** Hack HexaD
+- **PS ID:** 26170
+- **PS Title:** AI-Driven Anomaly Detection in Component Burn-In and Screening
 - **Category:** Software
-- **Theme:** Smart Automation / Advanced Electronics *(Update with your official Theme)*
+- **Theme:** Smart Automation
 
 ---
 

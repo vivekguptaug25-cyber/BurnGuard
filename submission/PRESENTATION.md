@@ -6,12 +6,12 @@ Upload the **final SIH presentation (PPT/PPTX)** in this `submission/` folder an
 
 Replace the placeholder below with the actual file name once uploaded:
 
-- **PPT:** `[Open Final Presentation](./TeamName_SIH2026_Presentation.pptx)`
+- **PPT:** `[Open Final Presentation](./HackHexaD_SIH2026_Presentation.pptx)`
 
 ### Requirements
 
 - Upload only the final presentation.
-- Use a clear file name, for example `TeamName_SIH2026_Presentation.pptx`.
+- Use a clear file name, for example `HackHexaD_SIH2026_Presentation.pptx`.
 - If the presentation is too large for GitHub (>25 MB), upload it to Google Drive/OneDrive and put the shareable viewer link below instead.
 - Test the link while logged out/incognito before submission.
 
