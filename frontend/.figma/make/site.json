@@ -1,0 +1,10 @@
+{
+  "description": "Analyzes up to five timed component inputs to assess failure risk and anomaly scores with AI-driven root cause insights and dynamic visual alerts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
